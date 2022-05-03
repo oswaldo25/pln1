@@ -1,6 +1,6 @@
 import nltk
 
-carpeta_nombre="F:\\oswaldo\\FIME ENE-AGO 2022\\PLN\\programas-phyton\\Documentos\\"
+carpeta_nombre="\\Documentos\\"
 archivo_nombre="Procesamiento de Lenguaje Natural 1.txt"
 with open(carpeta_nombre+archivo_nombre,"r") as archivo:
     texto=archivo.read()
