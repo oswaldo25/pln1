@@ -16,6 +16,7 @@ print(porcentaje," %")
 texto_nltk=nltk.Text(tokens)
 print(texto_nltk)
 
+
 texto_nltk.concordance("procesamiento")
 print("----------------------------------------------------------------------")
 texto_nltk.similar("procesamiento")
