@@ -1,0 +1,86 @@
+Tutorial de procesamiento del lenguaje natural: ¿Qué es la PNL? Ejemplos
+ PorDaniel JohnsonActualizado8 de marzo de 2022
+¿Qué es el procesamiento del lenguaje natural?
+El procesamiento del lenguaje natural (NLP) es una rama de la IA que ayuda a las computadoras a comprender, interpretar y manipular lenguajes humanos como el inglés o el hindi para analizar y derivar su significado. NLP ayuda a los desarrolladores a organizar y estructurar el conocimiento para realizar tareas como traducción, resumen, reconocimiento de entidades nombradas, extracción de relaciones, reconocimiento de voz, segmentación de temas, etc.
+En este tutorial de procesamiento de lenguaje natural, aprenderá conceptos de PNL como:
+•	¿Qué es el procesamiento del lenguaje natural?
+•	Historia de la PNL
+•	¿Cómo funciona la PNL?
+•	Componentes de la PNL
+•	PNL y Sistemas de Escritura
+•	Cómo implementar la PNL
+•	Ejemplos de PNL
+•	Futuro de la PNL
+•	Lenguaje natural versus lenguaje informático
+•	Ventajas de la PNL
+•	Desventajas de la PNL
+Historia de la PNL
+Aquí, hay eventos importantes en la historia del procesamiento del lenguaje natural:
+1950- La PNL comenzó cuando Alan Turing publicó un artículo llamado “Máquina e inteligencia”.
+1950- Intentos de automatizar la traducción entre ruso e inglés
+1960- El trabajo de Chomsky y otros sobre la teoría del lenguaje formal y la sintaxis generativa
+1990 : los modelos probabilísticos y basados en datos se habían vuelto bastante estándar
+8,8 millones
+¿Qué es el tutorial de la base de datos NoSQL?
+próximo
+Permanecer
+2000- Una gran cantidad de datos hablados y textuales están disponibles
+A continuación, en este tutorial de PNL, aprenderemos cómo funciona la PNL.
+¿Cómo funciona la PNL?
+Antes de aprender cómo funciona la PNL, comprendamos cómo los humanos usan el lenguaje.
+Todos los días, decimos miles de palabras que otras personas interpretan para hacer innumerables cosas. Nosotros lo consideramos como una simple comunicación, pero todos sabemos que las palabras son mucho más profundas que eso. Siempre hay algún contexto que derivamos de lo que decimos y cómo lo decimos. La PNL en Inteligencia Artificial nunca se enfoca en la modulación de la voz; se basa en patrones contextuales.
+Ejemplo:
+¿El hombre es a la mujer lo que el rey es a __________?
+Significado (rey) – significado (hombre) + significado (mujer)=?
+la respuesta es reina
+Aquí, podemos correlacionarnos fácilmente porque el hombre es de género masculino y la mujer es de género femenino. De la misma manera, el rey es de género masculino, y su género femenino es reina.
+Ejemplo:
+¿Es el rey para los reyes lo que la reina es para _______?
+La respuesta es--- reinas
+Aquí podemos ver dos palabras reyes y reyes donde una es singular y la otra es plural. Por lo tanto, cuando llega la reina del mundo, automáticamente se correlaciona con las reinas de nuevo singular plural.
+Componentes de la PNL
+Los cinco componentes principales del procesamiento del lenguaje natural en IA son:
+•	Análisis Morfológico y Léxico
+•	Análisis sintáctico
+•	Análisis Semántico
+•	Integración del discurso
+•	Análisis pragmático
+Análisis Morfológico y Léxico
+El análisis léxico es un vocabulario que incluye sus palabras y expresiones. Representa el análisis, la identificación y la descripción de la estructura de las palabras. Incluye la división de un texto en párrafos, palabras y oraciones.
+Las palabras individuales se analizan en sus componentes y los elementos que no son palabras, como los signos de puntuación, se separan de las palabras.
+Análisis Semántico
+El análisis semántico es una estructura creada por el analizador sintáctico que asigna significados. Este componente transfiere secuencias lineales de palabras a estructuras. Muestra cómo las palabras están asociadas entre sí.
+La semántica se enfoca solo en el significado literal de palabras, frases y oraciones. Esto solo abstrae el significado del diccionario o el significado real del contexto dado. Las estructuras asignadas por el analizador sintáctico siempre tienen significado asignado
+P.ej. "idea verde incolora". Esto sería rechazado por el análisis de Symantec como incoloro Aquí; verde no tiene ningún sentido.
+Análisis pragmático
+El análisis pragmático se ocupa del contenido social y comunicativo general y su efecto en la interpretación. Significa abstraer o derivar el uso significativo del lenguaje en situaciones. En este análisis, el enfoque principal siempre en lo que se dijo en reinterpretación de lo que se quiere decir.
+El análisis pragmático ayuda a los usuarios a descubrir este efecto deseado mediante la aplicación de un conjunto de reglas que caracterizan los diálogos cooperativos.
+Por ejemplo, "¿cerrar la ventana?" debe interpretarse como una solicitud en lugar de una orden.
+Análisis de sintaxis
+Las palabras se aceptan comúnmente como las unidades más pequeñas de sintaxis. La sintaxis se refiere a los principios y reglas que rigen la estructura de la oración de cualquier idioma individual.
+La sintaxis se centra en el orden correcto de las palabras que pueden afectar su significado. Esto implica el análisis de las palabras en una oración siguiendo la estructura gramatical de la oración. Las palabras se transforman en la estructura para mostrar cómo se relacionan las palabras entre sí.
+Integración del discurso
+Significa un sentido del contexto. El significado de cualquier oración individual que depende de esas oraciones. También considera el significado de la siguiente oración.
+Por ejemplo, la palabra "eso" en la oración "Él quería eso" depende del contexto del discurso anterior.
+A continuación, en este tutorial de PNL, aprenderemos sobre la PNL y los sistemas de escritura.
+PNL y Sistemas de Escritura
+El tipo de sistema de escritura utilizado para un idioma es uno de los factores decisivos para determinar el mejor enfoque para el preprocesamiento de texto. Los sistemas de escritura pueden ser
+1.	Logográfico: un gran número de símbolos individuales representan palabras. Ejemplo japonés, mandarín
+2.	Silábico: los símbolos individuales representan sílabas
+3.	Alfabético: los símbolos individuales representan sonido
+La mayoría de los sistemas de escritura utilizan el sistema silábico o alfabético. Incluso el inglés, con su sistema de escritura relativamente simple basado en el alfabeto romano, utiliza símbolos logográficos que incluyen números arábigos, símbolos de moneda (S, £) y otros símbolos especiales.
+Esta pose siguiendo desafíos
+•	Extraer significado (semántica) de un texto es un desafío
+•	La PNL en IA depende de la calidad del corpus. Si el dominio es amplio, es difícil entender el contexto.
+•	Hay una dependencia en el conjunto de caracteres y el idioma.
+Cómo implementar la PNL
+A continuación, se proporcionan métodos populares utilizados para el proceso de aprendizaje natural:
+Aprendizaje automático: los procedimientos de aprendizaje de la PNL utilizados durante el aprendizaje automático. Se enfoca automáticamente en los casos más comunes. Entonces, cuando escribimos reglas a mano, a menudo no es correcto en absoluto debido a los errores humanos.
+Inferencia estadística: la PNL puede hacer uso de algoritmos de inferencia estadística. Le ayuda a producir modelos que son robustos. por ejemplo, que contenga palabras o estructuras conocidas por todos.
+Ejemplos de PNL
+Hoy en día, la tecnología de aprendizaje de procesos naturales es una tecnología ampliamente utilizada.
+Estas son técnicas comunes de procesamiento del lenguaje natural:
+Recuperación de información y búsqueda web
+Google, Yahoo, Bing y otros motores de búsqueda basan su tecnología de traducción automática en modelos de aprendizaje profundo de NLP. Permite que los algoritmos lean texto en una página web, interpreten su significado y lo traduzcan a otro idioma.
+Corrección de gramática:
+La técnica de PNL es ampliamente utilizada por el software de procesador de textos como MS-word para la corrección ortográfica y la revisión gramatical.
