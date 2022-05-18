@@ -1,0 +1,39 @@
+¿Qué es el procesamiento del lenguaje natural?
+El procesamiento del lenguaje natural (NLP) es una rama de la IA que ayuda a las computadoras a comprender, interpretar y manipular lenguajes humanos como el inglés o el hindi para analizar y derivar su significado. NLP ayuda a los desarrolladores a organizar y estructurar el conocimiento para realizar tareas como traducción, resumen, reconocimiento de entidades nombradas, extracción de relaciones, reconocimiento de voz, segmentación de temas, etc.
+En este tutorial de procesamiento de lenguaje natural, aprenderá conceptos de PNL como:
+* ¿Qué es el procesamiento del lenguaje natural?
+* Historia de la PNL
+* ¿Cómo funciona la PNL?
+* Componentes de la PNL
+* PNL y Sistemas de Escritura
+* Cómo implementar la PNL
+* Ejemplos de PNL
+* Futuro de la PNL
+* Lenguaje natural versus lenguaje informático
+* Ventajas de la PNL
+* Desventajas de la PNL
+Historia de la PNL
+Aquí, hay eventos importantes en la historia del procesamiento del lenguaje natural:
+1950- La PNL comenzó cuando Alan Turing publicó un artículo llamado “Máquina e inteligencia”.
+1950- Intentos de automatizar la traducción entre ruso e inglés
+1960- El trabajo de Chomsky y otros sobre la teoría del lenguaje formal y la sintaxis generativa
+1990 : los modelos probabilísticos y basados ??en datos se habían vuelto bastante estándar
+8,8 millones
+¿Qué es el tutorial de la base de datos NoSQL?
+próximo
+Permanecer
+2000- Una gran cantidad de datos hablados y textuales están disponibles
+A continuación, en este tutorial de PNL, aprenderemos cómo funciona la PNL.
+¿Cómo funciona la PNL?
+Antes de aprender cómo funciona la PNL, comprendamos cómo los humanos usan el lenguaje.
+Todos los días, decimos miles de palabras que otras personas interpretan para hacer innumerables cosas. Nosotros lo consideramos como una simple comunicación, pero todos sabemos que las palabras son mucho más profundas que eso. Siempre hay algún contexto que derivamos de lo que decimos y cómo lo decimos. La PNL en Inteligencia Artificial nunca se enfoca en la modulación de la voz; se basa en patrones contextuales.
+Ejemplo:
+¿El hombre es a la mujer lo que el rey es a __________?
+Significado (rey) – significado (hombre) + significado (mujer)=?
+la respuesta es reina
+Aquí, podemos correlacionarnos fácilmente porque el hombre es de género masculino y la mujer es de género femenino. De la misma manera, el rey es de género masculino, y su género femenino es reina.
+Ejemplo:
+¿Es el rey para los reyes lo que la reina es para _______?
+La respuesta es--- reinas
+Aquí podemos ver dos palabras reyes y reyes donde una es singular y la otra es plural. Por lo tanto, cuando llega la reina del mundo, automáticamente se correlaciona con las reinas de nuevo singular plural.
+
